@@ -1,5 +1,3 @@
-# chrome_serial_sample
-
 ## chrome.serial APIシリアル通信サンプル
 
 chrome拡張serial APIを使用しデータの送受信を行うサンプル
